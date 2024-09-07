@@ -23,3 +23,7 @@
     "strict": true,
   },
 }
+
+   "esModuleInterop": true,
+    "strictPropertyInitialization": false,
+    "strict": true,
