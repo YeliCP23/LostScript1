@@ -24,6 +24,4 @@
   },
 }
 
-   "esModuleInterop": true,
-    "strictPropertyInitialization": false,
-    "strict": true,
+  
